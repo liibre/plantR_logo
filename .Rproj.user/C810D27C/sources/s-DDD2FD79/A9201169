@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607628611053.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9201169",
+    "lastKnownWriteTime" : 1607634595,
+    "last_content_update" : 1607634711398,
+    "path" : "~/Dropbox/liibre/plantR_logo/scripts/create_logo.R",
+    "project_path" : "scripts/create_logo.R",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
