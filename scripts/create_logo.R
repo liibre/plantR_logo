@@ -14,14 +14,14 @@ background <- "#002b11ff"
 text <- "#fb7813"
 
 # defining font
-font_add_google("Poppins", "fonte")
+font_add_google("Space Mono", "spacemono")
 
 # Creating the sticker
 sticker(imgurl,
         package = "plantR",
         p_size = 23,
         p_y =  1.5,
-        p_family = "fonte",
+        p_family = "spacemono",
         s_x = 1,
         s_y = .75,
         s_width = .6,
