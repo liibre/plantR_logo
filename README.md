@@ -1,4 +1,6 @@
-# plantR logo ![](figs/plantR_logo.png){width=20%} 
+# plantR logo
+
+<img src="https://raw.githubusercontent.com/liibre/plantR_logo/master/figs/plantR_logo.png?token=AA4OYDE3TMIXBWRYVMNCINC72PIUY" align="right" alt="" width="120" />
 
 This repository stores the code to build the logo of the [plantR package](https://github.com/LimaRAF/plantR). The package deals with download and cleaning of biodiversisty data. 
 
